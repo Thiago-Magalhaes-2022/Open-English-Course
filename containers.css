@@ -1,0 +1,19 @@
+
+.firstcontainer 
+{
+    width: fit-content;
+    background-color: grey;
+    display: inline-block;
+    text-align:center;
+    margin-top: auto;
+
+   } 
+
+.container {
+    width: fit-content;
+    background-color: black;
+   display: inline-block;
+   text-align:center;
+   margin-top: auto;
+  
+}

@@ -1,0 +1,35 @@
+.box1
+{
+    width: 300px;
+    margin: 30px;
+    padding: 20px;
+    background-color: darkblue;
+    display: inline-flex;
+    text-align: center;
+}
+
+
+  
+
+.box2
+{
+    width: 400px;
+    margin: 40px;
+    padding: 20px;
+    background-color: darkblue;
+    display: inline-flex;
+    text-align: center;
+}
+    
+
+
+.box3
+{
+    width: 200px;
+    margin: 20px;
+    padding: 50px;
+    background-color: darkblue;
+    display: inline-flex;
+    text-align: center;
+}
+    

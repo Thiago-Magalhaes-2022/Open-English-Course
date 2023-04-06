@@ -1,0 +1,40 @@
+@import url(boxes.css);
+@import url(containers.css);
+@import url(buttons.css);
+
+head
+ {
+    background-color: darkblue;
+    color: orange;
+    text-align: center;
+    width: max-content;
+}
+
+body {
+    background-color: darkblue;
+    color: yellow;
+    margin: 20px;
+    text-align: center;
+}
+
+h1 {
+    
+    color: yellow;
+    text-align: center;
+}
+
+h2 {
+    color: yellow;
+    text-align: center;
+}
+
+p {
+background-color: darkblue;
+    color: white;
+display: block;
+text-align: center;
+}
+
+a {
+    color: yellow   
+}
